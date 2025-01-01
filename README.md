@@ -10,8 +10,8 @@ Welcome to my GitHub - I'm Connor, a software developer, interested in: AWS, Pyt
 # GitHub Stats & Highlights
 
 <div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=connorsaunders&show_icons=true&theme=tokyonight" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorsaunders&layout=compact&theme=tokyonight" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=connorsaunders&show_icons=true&theme=tokyonight" style="height: 175px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorsaunders&layout=compact&theme=tokyonight" style="height: 175px;">
 </div>
 
 
