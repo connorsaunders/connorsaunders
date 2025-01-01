@@ -1,10 +1,19 @@
 # Welcome to my GitHub
-Welcome to my GitHub - I am a Software Developer with interests in: AWS, data, automation, SQL, and Python. This GitHub is an area for myself to store my side projects: hackathons, random spurs of interest, school work, etc. Please feel free to message me about any project, or create forks of my projects. I would love to work with anyone on developing any projects further.
+Welcome to my GitHub - I'm Connor, a software developer interested in: AWS, Python, SQL, data, automation, and much more.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connorsaunders/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connorsaunders18@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/TechBuzzwords/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/connorsaunders?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+
+---
+# GitHub Stats & Highlights
+
+<div style="display: flex; align-items: center; gap: 50px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=connorsaunders&show_icons=true&theme=tokyonight" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorsaunders&layout=compact&theme=tokyonight" style="height: 200px;">
+</div>
+
 
 ---
 # Skills & Tools
@@ -26,12 +35,6 @@ Welcome to my GitHub - I am a Software Developer with interests in: AWS, data, a
 ![Boto3](https://img.shields.io/badge/Boto3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp; 
 
 ---
-
-# GitHub Stats & Highlights
-
-![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connorsaunders&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connorsaunders&layout=compact&theme=tokyonight)  
-
-
 # Projects
 ## Type Evolve &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MattBoraske/TypeEvolve)&nbsp;[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/type-evolve)
 An AI-powered web app that improves typing skills tailored typing exercises. A user first types one of our original (AI generated) prompts. The user receives feedback: words per minute, missed characters, accuracy %, etc.. After the initial run, the user receives a tailor made new prompt based on their inaccuracies, aiming to improve on their specific errors. This project won first place at the University of Delaware's HenHacks 2024 - Best Educational Technology Hack.  
