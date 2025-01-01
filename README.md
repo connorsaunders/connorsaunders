@@ -1,5 +1,5 @@
 # Welcome to my GitHub
-Welcome to my GitHub - I'm Connor, a software developer interested in: AWS, Python, SQL, data, automation, and much more.
+Welcome to my GitHub - I'm Connor, a software developer, interested in: AWS, Python, SQL, data, automation, and much more. This GitHub is a place for me to share my projects: hackathons, school work, random interests and explortations, etc.. Please feel free to reach me at my email or through GitHub directly if you have interest in my projects or working together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connorsaunders/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connorsaunders18@gmail.com)
