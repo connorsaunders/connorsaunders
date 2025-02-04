@@ -48,7 +48,7 @@ Sleeper Fantasy Scoreboard Extension is a Chrome extension that uses simple DOM 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
-## College Comparer &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/connorsaunders/college-cost-comparison](https://github.com/MattBoraske/HenHacks_2023_College_Cost_Analyzer)) [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/college-cost-analyzer)  
+## College Comparer &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/connorsaunders/college-comparer](https://github.com/MattBoraske/HenHacks_2023_College_Cost_Analyzer)) [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/software/college-cost-analyzer)  
 
 This tool, called the College Cost Analyzer, provides a Return-On-Investment (ROI) analysis for the completion of a bachelor's degree in a given major at a United States college. Simply enter the school and major to get a bar chart that compares the average cost of attendance for 4 years with the average salary for graduates of that major as well as a table that shows how many years it will take to pay off the cost of attendance depending on the percentage of salary set aside.
 
