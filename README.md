@@ -10,13 +10,6 @@ Welcome to my GitHub - I'm Connor. This GitHub is a place for me to share my pro
 
 
 ---
-# GitHub Stats & Highlights
-
-<div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=connorsaunders&show_icons=true&theme=tokyonight" style="height: 130px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorsaunders&layout=compact&theme=tokyonight" style="height: 130px;">
-</div>
-
 ## Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
