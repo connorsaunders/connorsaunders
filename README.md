@@ -1,5 +1,5 @@
 # Welcome to my GitHub
-Welcome to my GitHub - I'm Connor. This GitHub is a place for me to share my projects: hackathons, school work, random interests and explortations, etc.. Please feel free to reach me at my email or through GitHub directly if you have interest in my projects or working together.
+Welcome to my GitHub - I'm Connor. This GitHub is a place for me to share my projects: hackathons, school work, random interests and explortations. Please feel free to reach me at my email or through GitHub directly if you have interest in my projects or working together.
 
 <div style="display: flex; align-items: center; gap: 10px; justify-content: center; flex-wrap: wrap; font-size: 0;">
   <a href="https://www.linkedin.com/in/connorsaunders/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
